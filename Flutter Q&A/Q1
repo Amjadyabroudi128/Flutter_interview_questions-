@@ -1,1 +1,3 @@
-
+Hot restart vs Hot reload
+Hot reload: used for small changes in the widget tree 
+Hot restart: Completely restarts the Flutter app.
