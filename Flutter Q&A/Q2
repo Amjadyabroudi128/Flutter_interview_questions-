@@ -1,0 +1,5 @@
+What is the difference between a stateful and a stateless widget? 
+Statless widget: A widget that does not maintain any state (data) that can change during the widget’s lifetime.
+used for tex, icons, images
+Stateful Widget is mutable to change and can be changed dynamically 
+ Use case: Buttons, Animations, Forms
