@@ -7,3 +7,4 @@ Click each question to go to the answer
 
 2. [What is the difference between StatelessWidget and StatefulWidget?](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q2)
 3. [How to Optimize Flutter](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q3)
+4. [What is Pubsec.yaml used for?](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q4)
