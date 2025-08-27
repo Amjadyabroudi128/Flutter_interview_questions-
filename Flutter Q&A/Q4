@@ -1,32 +1,3 @@
-# Q4: What is pubspec.yaml used for?
+ What is pubspec.yaml used for?
 
-The `pubspec.yaml` file is the core configuration file in every Flutter project.  
-It defines:
-
-- 📦 **Dependencies**: packages and plugins your app uses  
-- 🖼️ **Assets**: images, fonts, icons, JSON files, etc.  
-- 🏷️ **App name & description**  
-- 🔢 **Version & build number**  
-- 🧩 **Environment**: Dart/Flutter SDK constraints  
-
----
-
-### Example pubspec.yaml snippet
-
-```yaml
-name: my_app
-description: A sample Flutter project
-version: 1.0.0+1
-
-environment:
-  sdk: ">=3.0.0 <4.0.0"
-
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^1.2.0
-
-flutter:
-  assets:
-    - assets/images/
-    - assets/data.json
+pubsyc.yaml manages dependencies, assets, app name, and version 
