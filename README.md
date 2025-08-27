@@ -1,5 +1,5 @@
 # Flutter_interview_questions-
-This repo contains a collection of common Flutter interview questions 
+This repository contains a collection of common Flutter interview questions 
 # :question: Questions List
 Click each question to go to the answer 
 
