@@ -1,0 +1,2 @@
+How to optimize your Flutter Project? 
+Use const, Listview.builder when building large lists, pagination, and SVG
