@@ -1,0 +1,3 @@
+Difference between Push and Push Replacement?
+push adds a new screen to the current stack, and the previous screen stays.
+push replacement replaces the current root, can't go back
