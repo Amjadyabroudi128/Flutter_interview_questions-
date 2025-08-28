@@ -1,0 +1,3 @@
+Expanded VS Flexible
+Expanded Forces its child to take all available space, the child will expand to take as much as possible
+Flexible: takes a flexible space, does not force the child to take the full space. 
