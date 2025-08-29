@@ -11,3 +11,4 @@ Click each question to go to the answer
 5. [Difference between Push and Push Replacement](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q5)
 6. [Flexible vs Expanded](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q6)
 7. [Flutter Responsiveness](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q7)
+8. [Use of SafeArea](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q8)
