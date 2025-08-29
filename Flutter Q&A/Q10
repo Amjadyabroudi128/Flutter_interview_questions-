@@ -1,0 +1,2 @@
+Life Cycle of a Widget in Flutter 
+create, init, build, didChange, dispose, used to manage resources used for preloading data, controllers
