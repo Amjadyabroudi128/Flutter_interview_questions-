@@ -1,0 +1,3 @@
+Future vs Stream
+Future is used to retrieve data once from an API. 
+Stream is continuous data like messages, Future does not listen to real-time changes and waits for the data
