@@ -16,3 +16,4 @@ Click each question to go to the answer
 10. [Widget lifeCycle](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q10)
 11. [Future vs Stream](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q11)
 12. [setState](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q12)
+13. [local state vs app-wide State](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q13)
