@@ -1,0 +1,2 @@
+Local Vs app Wide State
+local uses setState for a specific widget, app-wide state uses StateManagement for shared data
