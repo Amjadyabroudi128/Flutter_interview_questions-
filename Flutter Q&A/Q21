@@ -1,0 +1,7 @@
+Const and Final 
+A final variable can only be set once; it's determined at runtime 
+e.g final name = "Amjad"
+Text(name)
+Const variable is a compile-time constant.
+Its value must be known at compile time (before the program runs).
+e.g const Text("Amjad");
