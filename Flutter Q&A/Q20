@@ -1,0 +1,2 @@
+Build Context
+BuildContext configure widgets and build their properties, used for navigation, theme and localisation 
