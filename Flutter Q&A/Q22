@@ -1,0 +1,2 @@
+How to handle errors?
+Use try-catch Future and show the user feedback with snackbar and print statements 
