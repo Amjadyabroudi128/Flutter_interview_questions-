@@ -25,3 +25,4 @@ Click each question to go to the answer
 19. [Main](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q19)
 20. [BuildContext](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q20)
 21. [Const vs final](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q21)
+22. [handle errors](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q22)
