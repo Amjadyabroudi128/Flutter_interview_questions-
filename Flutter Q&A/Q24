@@ -1,0 +1,3 @@
+What are Flavors in Flutter 
+Flavors allow you to create multiple versions of your app that behave differently depending on the environment and release type 
+To separate development, staging, and production builds.
