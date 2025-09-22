@@ -1,0 +1,3 @@
+PreferredSizeWidget
+In Flutter, the AppBar (and other Material widgets like TabBar)
+uses the PreferredSizeWidget interface to inform its parent (usually a Scaffold) of its desired height.
