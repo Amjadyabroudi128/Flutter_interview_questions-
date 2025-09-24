@@ -29,3 +29,4 @@ Click each question to go to the answer
 23. [Localizations](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q23)
 24. [Flavors](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q24)
 25. [PreferredSizeWidget](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/blob/main/Flutter%20Q%26A/Q25)
+26. [Local Storage](https://github.com/Amjadyabroudi128/Flutter_interview_questions-/tree/main/Flutter%20Q&A)
